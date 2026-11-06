@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://nicholaslorizio.github.io/sitemap.xml
