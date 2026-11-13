@@ -78,6 +78,7 @@ p { margin: 0 0 16px; }
 .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 18px; }
 .card { border: 1px solid var(--line); border-radius: 12px; padding: 22px; background: #fff; }
 .card p { color: var(--ink-soft); font-size: 15.5px; margin: 0; }
+.card-img { display: block; width: 100%; height: auto; border-radius: 8px; margin-bottom: 14px; border: 1px solid var(--line); }
 
 .timeline { list-style: none; padding: 0; margin: 0; }
 .timeline li { padding: 16px 0; border-bottom: 1px solid var(--line); }
